@@ -28,7 +28,8 @@
 
 .nav-list {
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
+	gap: 20px;
 	list-style: none;
 	align-items: center;
 	margin-left: -16px;
