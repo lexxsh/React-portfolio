@@ -70,3 +70,12 @@
 		height: 300px;
 	}
 }
+
+.additional-links {
+	display: flex;
+	flex-direction: column;
+	font-size: 12px;
+	padding-left: 20px;
+	font-weight: 700;
+	gap: 4px;
+}

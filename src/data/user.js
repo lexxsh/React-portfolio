@@ -60,7 +60,20 @@ const INFO = {
 			title: "Project 4",
 			description: "다양한 동적 페이지(Apple, Valrorant)",
 			logo: "/react.png",
-			linkText: "View Project",
+			linkOptions: [
+				{
+					text: "Airpod-Max",
+					url: "https://lexxsh.github.io/Airpod-Max/",
+				},
+				{
+					text: "Valrorant",
+					url: "https://lexxsh.github.io/Valrorant/",
+				},
+				{
+					text: "Music-PlayList",
+					url: "https://lexxsh.github.io/Music-play/",
+				},
+			],
 			link: "https://github.com",
 		},
 	],
