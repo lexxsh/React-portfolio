@@ -37,29 +37,29 @@ const INFO = {
 			description: "3D (three.js)를 활용한 페이지 - 1",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://react3d-1.netlify.app",
 		},
 
 		{
 			title: "Project 2",
 			description: "3D (three.js)를 활용한 페이지 - 2",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://react-3d-2.netlify.app/",
 		},
 
 		{
 			title: "Project 3",
 			description: "Linux Style로 페이지 개발(진행중)",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			logo: "/react.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://effulgent-sunflower-9fe725.netlify.app/",
 		},
 
 		{
 			title: "Project 4",
 			description: "다양한 동적 페이지(Apple, Valrorant)",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "/react.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
